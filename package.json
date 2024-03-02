@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/remy177/Unit4.Block34.acme.reservation#readme",
   "dependencies": {
-    "pg": "^8.11.3"
+    "express": "^4.18.3",
+    "pg": "^8.11.3",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
