@@ -1,0 +1,27 @@
+{
+  "name": "unit4.block34.acme.reservation",
+  "version": "1.0.0",
+  "description": "Block-34",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remy177/Unit4.Block34.acme.reservation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remy177/Unit4.Block34.acme.reservation/issues"
+  },
+  "homepage": "https://github.com/remy177/Unit4.Block34.acme.reservation#readme",
+  "dependencies": {
+    "pg": "^8.11.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
